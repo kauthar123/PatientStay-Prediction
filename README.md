@@ -17,28 +17,41 @@ The dataset includes information on patient hospital stays, with 10,999 rows and
 
 Data preprocessing steps included:
 
-Handling missing values
-Removing duplicate entries
-Converting categorical variables to numerical format using one-hot encoding
-Normalizing numerical features
-Splitting the data into training and test sets
+•	Handling missing values
+•	Removing duplicate entries
+•	Converting categorical variables to numerical format using one-hot encoding
+•	Normalizing numerical features
+•	Splitting the data into training and test sets
+
 
 ## Feature Engineering
 
 The dataset includes the following features:
 
 •	LengthOfStay: Number of days a patient stays in the hospital (target variable).
+
 •	Id: Unique patient identifier.
+
 •	ReadmissionCount: Number of times the patient has been readmitted.
+
 •	Gender: Patient's gender.
+
 •	FacilityId: Facility identifier.
+
 •	KidneyAilments: Presence of kidney ailments.
+
 •	HeartAilments: Presence of heart ailments.
+
 •	PsychologicalAilments: Presence of psychological ailments.
+
 •	SubstanceAbuseHistory: History of substance abuse.
+
 •	BMI: Body Mass Index.
+
 •	ABG: Arterial blood gas levels.
+
 •	Pulse: Pulse rate.
+
 •	SecondaryDiagnosis: Secondary diagnosis code or category.
 
 Due to outliers in BMI and Pulse, imputation was done using the mode instead of the mean. 
