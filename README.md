@@ -2,6 +2,18 @@
 
 This project predicts the length of stay for patients in a hospital-based
  on various features. 
+ 
+ ## Usage
+
+Open `Patient_Stay_Prediction.ipynb` in Jupyter Notebook to explore the analysis and prediction process.
+
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- scikit-learn
+
 
 ## Table Of Content 
 
@@ -100,14 +112,4 @@ The model was tuned using
 
 to see if there would be any significant change in its R2 score
 
-## Usage
-
-Open `Patient_Stay_Prediction.ipynb` in Jupyter Notebook to explore the analysis and prediction process.
-
-## Requirements
-
-- Python 3.x
-- Jupyter Notebook
-- pandas
-- scikit-learn
 
