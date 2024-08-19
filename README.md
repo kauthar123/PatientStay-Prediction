@@ -1,6 +1,6 @@
 ## Table Of Content 
 
-1.	Introduction
+1.	[Introduction](#Introduction)
 2.	Dataset
 3.	EDA
 4.	Data Preprocessing
