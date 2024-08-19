@@ -18,9 +18,13 @@ The dataset includes information on patient hospital stays, with 10,999 rows and
 Data preprocessing steps included:
 
 •	Handling missing values
+
 •	Removing duplicate entries
+
 •	Converting categorical variables to numerical format using one-hot encoding
+
 •	Normalizing numerical features
+
 •	Splitting the data into training and test sets
 
 
@@ -64,7 +68,9 @@ The model was trained using
 
 The model was tuned using
 •	Ridge
+
 •	Lasso
+
 to see if there would be any significant change in its R2 score
 
 ## Usage
