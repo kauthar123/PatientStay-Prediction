@@ -13,6 +13,10 @@ Open `Patient_Stay_Prediction.ipynb` in Jupyter Notebook to explore the analysis
 - Jupyter Notebook
 - pandas
 - scikit-learn
+  
+## Installation
+
+To run this project, you need to have Jupyter Notebook and the required Python libraries installed.
 
 
 ## Table Of Content 
@@ -33,9 +37,7 @@ Open `Patient_Stay_Prediction.ipynb` in Jupyter Notebook to explore the analysis
 
 
 
-## Installation
 
-To run this project, you need to have Jupyter Notebook and the required Python libraries installed.
 
 ## Introduction
 The goal is to build a model to predict the length of stay of a patient given the readings and history from when the patient was admitted. The project leverages machine learning models such as Linear Regression to predict this.
