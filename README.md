@@ -1,3 +1,15 @@
+## Table Of Content 
+
+1.	Introduction
+2.	Dataset
+3.	EDA
+4.	Data Preprocessing
+5.	Feature Engineering
+6.	Model Training and Tuning
+7.	Conclusion
+
+
+
 # Patient Stay Prediction
 
 This project predicts the length of stay for patients in a hospital-based
