@@ -10,6 +10,15 @@ To run this project, you need to have Jupyter Notebook and the required Python l
 ## Introduction
 The goal is to build a model to predict the length of stay of a patient given the readings and history from when the patient was admitted. The project leverages machine learning models such as Linear Regression to predict this.
 
+## EDA Findings
+
+1. Identified key features influencing patient stay duration.
+   
+2. Discovered correlations between patient history and length of stay.
+   
+3. Highlighted potential outliers and missing data that may affect the model.
+
+
 ## Dataset
 The dataset includes information on patient hospital stays, with 10,999 rows and 13 columns. After removing two columns with no values (KidneyAilments and HeartAilments), there are 11 independent features and one target variable, LengthOfStay. Independent features include categorical and boolean variables such as Gender, PsychologicalAilments, and SubstanceAbuseHistory.
 
